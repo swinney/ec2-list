@@ -75,7 +75,6 @@ end
 #############################
 ## EC2 instances Info
 #############################
-out = nil
 
 # you might not get anything back
 if resp.reservations.any?
